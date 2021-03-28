@@ -6,7 +6,9 @@ git add .
 
 git commit -m "first commit"
 
-git remote add origin https://github.com/
+git remote add origin https://github.com/..
+#删除
+git remote remove origin
 
 git branch -M main
 
@@ -17,7 +19,7 @@ git push -u origin master
 git add .
 git commit -m 'note'
 git push
-=>git commit -am  (add&commit)
+=>git commit -am  #(add&commit)
 
 ```
 
