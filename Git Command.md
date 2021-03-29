@@ -31,6 +31,7 @@ fatal: unable to access 'https://github.com/Amsia/DrealityArt.git/': OpenSSL SSL
 git config http.postBuffer 524288000
 git config http.sslVerify "false"
 git config --global http.sslVerify "false"
+
 问题2
 LF will be replaced by CRLF
 解决
